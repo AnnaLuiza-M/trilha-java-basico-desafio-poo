@@ -5,7 +5,7 @@ Este repositório contém o diagrama UML e a implementação das interfaces e cl
 
 ## Diagrama UML
 
-![Diagrama UML]()
+![Diagrama UML](Captura%20de%20tela%202024-07-13%20131520.png)
 
 
 ## Código Fonte
